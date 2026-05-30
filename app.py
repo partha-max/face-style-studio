@@ -5,7 +5,7 @@ import pickle
 
 from PIL import Image
 from datetime import datetime
-from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
+from keras.applications.mobilenet_v2 import preprocess_input
 
 
 # ==================================================
